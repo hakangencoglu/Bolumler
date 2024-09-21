@@ -5,7 +5,7 @@ import 'package:get/get.dart';
 import 'Fakulteler.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(const MyApp());
 }
 
 
