@@ -1,0 +1,52 @@
+{
+  "FakulteData": [
+    {
+      "Fakülte Kodu": "03",
+      "Fakülte Adı": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Bölüm Adı": "Bilgisayar Mühendisliği",
+      "Bölüm Kodu": "01"
+    },
+    {
+      "Fakülte Kodu": "03",
+      "Fakülte Adı": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Bölüm Adı": "Elektrik-Elektronik Mühendisliği (%30 İngilizce)",
+      "Bölüm Kodu": "10"
+    },
+    {
+      "Fakülte Kodu": "03",
+      "Fakülte Adı": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Bölüm Adı": "Endüstri Mühendisliği (%30 İngilizce)",
+      "Bölüm Kodu": "06"
+    },
+    {
+      "Fakülte Kodu": "03",
+      "Fakülte Adı": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Bölüm Adı": "Gıda Mühendisliği (%30 İngilizce)",
+      "Bölüm Kodu": "05"
+    },
+    {
+      "Fakülte Kodu": "03",
+      "Fakülte Adı": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Bölüm Adı": "İç Mimarlık ve Çevre Tasarımı",
+      "Bölüm Kodu": "08"
+    },
+    {
+      "Fakülte Kodu": "03",
+      "Fakülte Adı": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Bölüm Adı": "Mimarlık",
+      "Bölüm Kodu": "03"
+    },
+    {
+      "Fakülte Kodu": "03",
+      "Fakülte Adı": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Bölüm Adı": "Moleküler Biyoloji ve Genetik ( %30 İngilizce )",
+      "Bölüm Kodu": "11"
+    },
+    {
+      "Fakülte Kodu": "03",
+      "Fakülte Adı": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Bölüm Adı": "Yazılım Mühendisliği (%30 İngilizce)",
+      "Bölüm Kodu": "07"
+    }
+  ]
+}
